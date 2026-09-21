@@ -38,7 +38,7 @@ measured_temp(70:80)    = 60;    % Overheating fault at t = 7–8s
 
 <h3>📊 Output Plots</h3>
 <p align="center">
-  <img src="Battery Fault Detection.png" width="700"/>
+  <img src="assets/Battery Fault Detection.png" width="700"/>
 </p>
 <ul>
   <li><b>Subplot 1</b> — Measured vs Kalman-estimated voltage with fault markers</li>
